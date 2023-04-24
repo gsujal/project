@@ -1,0 +1,2 @@
+cap..16gb
+upgrade..32gb
